@@ -226,3 +226,16 @@ LOCKED → CORRECTED (on admin unlock + edit)
 3. **GPS Coordinates:** Validated within 50m of classroom
 4. **Enrollment Numbers:** Format: 01-XXXXXX-XXX (Bahria standard)
 5. **Timestamps:** All records use UTC timezone
+
+---
+
+## Modeling Artifacts Delivered
+
+✅ **Context Diagram (Level 0 DFD)** — External entities and system boundary  
+✅ **Level 1 DFD** — Five major processes with data flows  
+✅ **Class Diagram** — Object-oriented design with relationships  
+✅ **Sequence Diagram** — Facial recognition flow with 11 steps  
+✅ **Activity Diagram** — Student marking attendance workflow  
+✅ **State Diagram** — AttendanceRecord lifecycle with 7 states  
+
+All diagrams follow UML 2.5 standards as per course requirements (SEN 220).
